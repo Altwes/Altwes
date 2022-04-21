@@ -1,6 +1,6 @@
 ### Olá eu sou o Altwes(Wesley) 👋
 
-- 🔭 Hoje trabalho com java e spring
+- 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando Machine Learning e Análise de Dados
 
 <div align="center">
